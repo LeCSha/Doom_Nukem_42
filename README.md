@@ -1,6 +1,7 @@
 ## Doom_nukem
 A "doom/duke_nukem like" game, made in C with the SDL2 using the portal rendering method
 
+-- Work in progress -- 
 
 ## Built with
 C language, SDL2 library, Portal rendering method
